@@ -1,0 +1,14 @@
+C:\saidivyasree\infinite\training\day4\example1\example1\bin\Debug\example1.exe.config
+C:\saidivyasree\infinite\training\day4\example1\example1\bin\Debug\example1.exe
+C:\saidivyasree\infinite\training\day4\example1\example1\bin\Debug\example1.pdb
+C:\saidivyasree\infinite\training\day4\example1\example1\obj\Debug\example1.csproj.AssemblyReference.cache
+C:\saidivyasree\infinite\training\day4\example1\example1\obj\Debug\example1.csproj.CoreCompileInputs.cache
+C:\saidivyasree\infinite\training\day4\example1\example1\obj\Debug\example1.exe
+C:\saidivyasree\infinite\training\day4\example1\example1\obj\Debug\example1.pdb
+C:\saidivyasree\infinite\training\day4\question1\example1\bin\Debug\example1.exe.config
+C:\saidivyasree\infinite\training\day4\question1\example1\bin\Debug\example1.exe
+C:\saidivyasree\infinite\training\day4\question1\example1\bin\Debug\example1.pdb
+C:\saidivyasree\infinite\training\day4\question1\example1\obj\Debug\example1.csproj.AssemblyReference.cache
+C:\saidivyasree\infinite\training\day4\question1\example1\obj\Debug\example1.csproj.CoreCompileInputs.cache
+C:\saidivyasree\infinite\training\day4\question1\example1\obj\Debug\example1.exe
+C:\saidivyasree\infinite\training\day4\question1\example1\obj\Debug\example1.pdb

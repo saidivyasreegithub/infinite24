@@ -1,0 +1,6 @@
+C:\saidivyasree\infinite\training\day4\question8\question8\bin\Debug\question8.exe.config
+C:\saidivyasree\infinite\training\day4\question8\question8\bin\Debug\question8.exe
+C:\saidivyasree\infinite\training\day4\question8\question8\bin\Debug\question8.pdb
+C:\saidivyasree\infinite\training\day4\question8\question8\obj\Debug\question8.csproj.CoreCompileInputs.cache
+C:\saidivyasree\infinite\training\day4\question8\question8\obj\Debug\question8.exe
+C:\saidivyasree\infinite\training\day4\question8\question8\obj\Debug\question8.pdb

@@ -1,0 +1,7 @@
+C:\saidivyasree\infinite\training\day4\question6\question6\bin\Debug\question6.exe.config
+C:\saidivyasree\infinite\training\day4\question6\question6\bin\Debug\question6.exe
+C:\saidivyasree\infinite\training\day4\question6\question6\bin\Debug\question6.pdb
+C:\saidivyasree\infinite\training\day4\question6\question6\obj\Debug\question6.csproj.AssemblyReference.cache
+C:\saidivyasree\infinite\training\day4\question6\question6\obj\Debug\question6.csproj.CoreCompileInputs.cache
+C:\saidivyasree\infinite\training\day4\question6\question6\obj\Debug\question6.exe
+C:\saidivyasree\infinite\training\day4\question6\question6\obj\Debug\question6.pdb
